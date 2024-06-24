@@ -6,5 +6,5 @@ QuickNote is an innovative, interactive sticky note app designed to help you cap
 * Customizable Notes: Personalize your notes with a variety of colors, fonts, and themes to suit your style and preference.
 * Interactive Features: Add images, links, and checklists to your notes for a richer and more interactive experience.
 
-See Live -> 
+See Live 🎉 -> 
 https://quick-note-app.onrender.com
