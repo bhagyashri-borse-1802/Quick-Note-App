@@ -1,12 +1,12 @@
 import React from "react";
-import HighlightIcon from "@mui/icons-material/Highlight";
+import EditNoteIcon from '@mui/icons-material/EditNote';
 
 function Header() {
   return (
     <header>
       <h1>
-        <HighlightIcon />
-        Keeper
+        <EditNoteIcon />
+        QuickNote
       </h1>
     </header>
   );
