@@ -1,4 +1,4 @@
-# Quick-Note-App
+# Quick-Note-App 📝
 QuickNote is an innovative, interactive sticky note app designed to help you capture, organize, and share your thoughts effortlessly. Whether you’re brainstorming ideas, managing tasks, or simply jotting down reminders, QuickNote offers a seamless and intuitive experience to keep your life organized and productive.
 
 # Features
@@ -9,7 +9,7 @@ QuickNote is an innovative, interactive sticky note app designed to help you cap
 # Screenshots
 
 <p float="left">
-  <img src="public/image1.png" alt="ScreenShot" width="500" />
+  <img src="public/image1.png" alt="ScreenShot" width="700" />
 </p>
 
 See Live 🎉 -> 
